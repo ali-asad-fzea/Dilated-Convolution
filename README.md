@@ -1,5 +1,5 @@
 # Dialated Convolution
-In this assignment, our task is to optimize the problem of “Dilated Convolution (DC)” which involves an input matrix and a kernel matrix. The sample algorithm is depicted below using an animation.
+In dialated convolution, our task is to optimize the problem of “Dilated Convolution (DC)” which involves an input matrix and a kernel matrix. The sample algorithm is depicted below using an animation.
 
 ### Input:  
 
